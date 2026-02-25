@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "コズミック",
+  "base_artist": "WurtS",
+  "createdAt": "2026-02-25T09:39:30.467372Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コズミック・パワー・オブ・ザ・インフィニット・シュレッド・マシーン",
+      "artist": "DragonForce",
+      "has_synced": true,
+      "path": "select/01_コズミック・パワー・オブ・ザ・インフィニット・シュレッド・マシーン_DragonForce.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コズミック☆ミステリー☆ガール",
+      "artist": "Mao (CV: Sumire Uesaka)",
+      "has_synced": true,
+      "path": "select/02_コズミック☆ミステリー☆ガール_Mao_(CV__Sumire_Uesaka).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コズミック☆ミステリー☆ガール",
+      "artist": "吉武千颯/マオ(CV.上坂すみれ)",
+      "has_synced": true,
+      "path": "select/03_コズミック☆ミステリー☆ガール_吉武千颯_マオ(CV.上坂すみれ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コズミック",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_コズミック_WurtS.txt"
+    }
+  ]
+}
